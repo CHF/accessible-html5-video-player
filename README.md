@@ -1,8 +1,6 @@
-<img src="images/logo_347x50_PPa11y.png" width="347" height="50" alt="PayPal accessibility logo" />
-
 #Accessible HTML5 Video Player
 
-## by the PayPal Accessibility Team
+## Originally by the PayPal Accessibility Team
 See the [Authors](#authors) section below for details.
 
 ## What is it?
